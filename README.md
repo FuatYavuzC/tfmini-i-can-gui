@@ -47,6 +47,33 @@ bulunmalıdır.
 > TFmini-i'nin CAN ve RS-485 modelleri farklı donanımlardır; arayüz yazılım
 > komutuyla değiştirilemez.
 
+## Kullanılan donanım
+
+### Besleme
+
+Bu projede TFmini-i LiDAR'ı beslemek için **12 V DC, 1 A adaptör** kullanıldı.
+
+### USB-CAN dönüştürücü
+
+Projede Robotistan'dan temin edilen **USB-CAN Dönüştürücü V7** kullanıldı.
+Ürün sayfasına aşağıdaki görsele veya bağlantıya tıklayarak ulaşabilirsiniz.
+
+<p align="center">
+  <a href="https://www.robotistan.com/usb-can-donusturucu-v7?language=tr&amp;h=d408da05">
+    <img
+      src="https://robotistan.witcdn.net/usb-to-can-bus-converter-adapter-38915-65-K.jpg"
+      alt="Robotistan USB-CAN Dönüştürücü V7"
+      width="520"
+    >
+  </a>
+</p>
+
+**Ürün bağlantısı:**
+[Robotistan USB-CAN Dönüştürücü V7](https://www.robotistan.com/usb-can-donusturucu-v7?language=tr&h=d408da05)
+
+Görsel Robotistan ürün sayfasından harici olarak yüklenmektedir ve Robotistan'a
+aittir.
+
 ## Kurulum
 
 Python 3.10 veya daha yeni bir sürüm önerilir.
